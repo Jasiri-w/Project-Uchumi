@@ -1,0 +1,12 @@
+pandas
+numpy
+tqdm
+trafilatura
+nltk
+langdetect
+emoji
+gensim
+tensorflow
+scikit-learn
+textblob
+matplotlib
